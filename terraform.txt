@@ -2,4 +2,4 @@ welcome to terraform
 
 new terraform
 
-Jenkins class
+Jenkins classes
